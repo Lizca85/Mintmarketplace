@@ -89,7 +89,7 @@
         app:layout_constraintVertical_bias="0.606" />
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/recovery"
         android:layout_width="201dp"
         android:layout_height="21dp"
         android:gravity="center"
@@ -102,11 +102,10 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.656" />
 
-    <Button
+    <TextView
         android:id="@+id/signup"
-        android:layout_width="212dp"
-        android:layout_height="77dp"
-        android:background="@color/white"
+        android:layout_width="160dp"
+        android:layout_height="81dp"
         android:ems="10"
         android:gravity="center"
         android:inputType="textMultiLine"
